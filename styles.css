@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+a {
+    color: brown;
+    font-size: 20pt;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+p {
+    font-size: 16pt;
+}
